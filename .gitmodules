@@ -1,3 +1,3 @@
 [submodule "build"]
 	path = build
-	url = git@github.com:nwind21/plugin-build.git
+	url = https://github.com/nwind21/plugin-build.git
