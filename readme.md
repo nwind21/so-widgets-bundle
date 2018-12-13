@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/nwind21/so-widgets-bundle.svg?branch=develop)](https://travis-ci.com/nwind21/so-widgets-bundle)
+
 # SiteOrigin Widgets Bundle
 
 Welcome to the development page for the SiteOrigin widgets bundle. We created this bundle primarily for you to use with your [Page Builder](https://siteorigin.com/page-builder/) pages.
